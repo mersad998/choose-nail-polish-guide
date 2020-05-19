@@ -1,0 +1,104 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  },
+  "plugins": [
+    "babel",
+    "react",
+    "react-hooks",
+    "react-redux",
+    "redux-saga",
+    "no-async-without-await",
+    "css-modules",
+    "filenames",
+    "simple-import-sort"
+  ],
+  "extends": [
+    "react-app",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:react-redux/recommended",
+    "plugin:redux-saga/recommended",
+    "plugin:css-modules/recommended"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+    "strict": ["error", "safe"],
+    "no-debugger": "error",
+    "brace-style": [
+      "error",
+      "1tbs",
+      {
+        "allowSingleLine": true
+      }
+    ],
+    "no-trailing-spaces": "error",
+    "keyword-spacing": "error",
+    "space-before-function-paren": ["error", "never"],
+    "spaced-comment": ["error", "always"],
+    "vars-on-top": "error",
+    "no-undef": "error",
+    "no-undefined": "warn",
+    "comma-dangle": ["error", "never"],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "guard-for-in": "error",
+    "no-eval": "error",
+    "no-with": "error",
+    "valid-typeof": "error",
+    "no-unused-vars": "error",
+    "no-continue": "warn",
+    "no-extra-semi": "warn",
+    "no-unreachable": "warn",
+    "no-unused-expressions": "warn",
+    "max-len": ["warn", 80, 4],
+    "react/prefer-es6-class": "warn",
+    "react/jsx-boolean-value": "warn",
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "@typescript-eslint/indent": ["error", 2],
+    "@typescript-eslint/no-explicit-any": "off",
+    "react/prop-types": "off",
+    "react-redux/mapDispatchToProps-returns-object": "off",
+    "react-redux/prefer-separate-component-file": "off",
+    "@typescript-eslint/explicit-function-return-type": [
+      "warn",
+      {
+        "allowExpressions": true
+      }
+    ],
+    "no-async-without-await/no-async-without-await": "warn",
+    "css-modules/no-undef-class": "off",
+    "filenames/match-regex": [
+      "error",
+      "^[a-zA-Z]+\\.*\\b(typescript|module|locale|validate|test|action|api|reducer|saga)?\\b$",
+      true
+    ],
+    "filenames/match-exported": "off",
+    "filenames/no-index": "error",
+    "simple-import-sort/sort": "error",
+    "react-native/no-unused-styles": 2,
+    "react-native/split-platform-components": 2,
+    "react-native/no-inline-styles": 2,
+    "react-native/no-color-literals": 2,
+    "react-native/no-raw-text": 2
+  }
+}
