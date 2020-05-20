@@ -263,7 +263,7 @@ const IconInputstyels = StyleSheet.create({
       marginTop: 8,
       borderRadius: 8,
       borderWidth: 1,
-      borderColor: '#cba33d',
+      borderColor: 'grey',
       backgroundColor: backgroundColor,
     };
   },

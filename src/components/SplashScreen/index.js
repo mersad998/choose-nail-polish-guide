@@ -133,12 +133,12 @@ export default function SplashScreen(props) {
           style={styles.Image}
         />
         <CoustomTextComponent style={styles.Text}>
-          محنصر به فرد باش! سلامت باش! خوشحال باش !
+          {language.txtSlogen}
         </CoustomTextComponent>
         <View style={styles.BottomLayout}>
           <Spinner color="#d4a1d0" style={styles.Spinner} />
           <CoustomTextComponent style={styles.TextDescription}>
-            در حال بارگذاری ...
+            {language.txtLoading}
           </CoustomTextComponent>
         </View>
       </View>

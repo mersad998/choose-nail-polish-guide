@@ -8,6 +8,7 @@ import {createAppContainer} from 'react-navigation';
 // صفحه اسپلش
 import SplashScreen from 'components/SplashScreen';
 import MainComponent from 'components/MainComponent';
+import ShowList from 'components/ShowList';
 import Setting from 'components/Setting/Setting';
 import ChooseThemeColor from 'components/Setting/ChooseThemeColor';
 import ChooseLanguage from 'components/Setting/ChooseLanguage';
@@ -22,6 +23,7 @@ export default function Routs() {
       ChooseThemeColor,
       ChooseLanguage,
       ChooseFont,
+      ShowList,
     },
     {
       initialRouteName: 'SplashScreen',

@@ -34,7 +34,7 @@ export default function ChooseFont(props) {
       onPress={onPress}>
       <View style={styles.ColorsContainer}>
         <CoustomTextComponent style={styles.itemTitle(colors.TextColor, Font)}>
-          {language.txtOnlinePrice24}
+          {language.txtAppName}
         </CoustomTextComponent>
       </View>
       <CoustomTextComponent style={styles.itemTitle(colors.TextColor)}>

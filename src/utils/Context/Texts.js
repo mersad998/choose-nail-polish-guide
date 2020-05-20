@@ -32,6 +32,11 @@ const Texts = {
     txtFontChanged: 'فونت برنامه با موفقیت تغییر کرد.',
     txtChooseTheme: 'انتخاب پوسته',
     txtChooseLanguage: 'انتخاب زبان',
+    txtMainPage: 'صفحه اصلی',
+    txtWellcome: 'خوش آمدید',
+    txtBeingSpecialIsWorthyOfYou: 'خاص بودن برازنده شماست',
+    txtLoading: 'در حال بارگذاری ...',
+    txtSlogen: 'محنصر به فرد باش! سلامت باش! خوشحال باش !',
   },
   EN: {
     key: 'EN',
@@ -66,6 +71,11 @@ const Texts = {
     txtFontChanged: 'Font changed successfully.',
     txtChooseTheme: 'Choose Theme',
     txtChooseLanguage: 'Choose Language',
+    txtMainPage: 'Main Page',
+    txtWellcome: 'Wellcome',
+    txtBeingSpecialIsWorthyOfYou: 'Being special is worthy of you',
+    txtLoading: 'Loading...',
+    txtSlogen: 'Be kind to the individual! Be healthy! Be happy !',
   },
 };
 export default Texts;

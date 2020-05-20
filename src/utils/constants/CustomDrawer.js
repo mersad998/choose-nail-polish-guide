@@ -40,10 +40,10 @@ export default function CustomDrawer(props) {
           </View>
           <View style={styles.DrawerTextArea}>
             <CoustomTextComponent style={styles.drawerHeaderText}>
-              خوش آمدید
+              {language.txtWellcome}
             </CoustomTextComponent>
             <CoustomTextComponent style={styles.drawerName}>
-              خاص بودن برازنده شماست
+              {language.txtBeingSpecialIsWorthyOfYou}
             </CoustomTextComponent>
           </View>
         </View>
@@ -65,7 +65,7 @@ export default function CustomDrawer(props) {
             color={white}
           />
           <CoustomTextComponent style={styles.drawerItemText}>
-            صفحه اصلی
+            {language.txtMainPage}
           </CoustomTextComponent>
         </TouchableOpacity>
         <Dash
