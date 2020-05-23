@@ -37,6 +37,10 @@ const Texts = {
     txtBeingSpecialIsWorthyOfYou: 'خاص بودن برازنده شماست',
     txtLoading: 'در حال بارگذاری ...',
     txtSlogen: 'محنصر به فرد باش! سلامت باش! خوشحال باش !',
+    txtSearchHashtagPlaceHolder: 'جستجوی هشتگ   ( برای نمونه : #فرنچ )',
+    txtHandNails: 'ناخن های دست',
+    txtFoofNails: 'ناخن های پا',
+    txtShouldHasHashtag: 'عبارت جستجو شده باید دارای # باشد',
   },
   EN: {
     key: 'EN',
@@ -76,6 +80,10 @@ const Texts = {
     txtBeingSpecialIsWorthyOfYou: 'Being special is worthy of you',
     txtLoading: 'Loading...',
     txtSlogen: 'Be kind to the individual! Be healthy! Be happy !',
+    txtSearchHashtagPlaceHolder: 'Search Hashtags ( Example : #sharp )',
+    txtHandNails: 'Hands Nails',
+    txtFoofNails: 'Foot Nails',
+    txtShouldHasHashtag: 'Searching sentece should have #',
   },
 };
 export default Texts;

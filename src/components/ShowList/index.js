@@ -1,36 +1,54 @@
-import React, {useState, useContext} from 'react';
+import React, {useState, useContext, useEffect} from 'react';
 import {View, StyleSheet, StatusBar, Image, FlatList} from 'react-native';
-import {
-  MyHeader,
-  CoustomTextComponent,
-  CoustomButtonComponent,
-} from 'utils/constants/elements';
+import {MyHeader, CoustomTextComponent} from 'utils/constants/elements';
 import SideMenu from 'react-native-side-menu';
 import CustomDrawer from 'utils/constants/CustomDrawer';
 import {ColorThemeContext} from 'utils/Context/ColorThemeContext';
 import {darkPink} from 'utils/constants/colors';
 import {LanguageContext} from 'utils/Context/LanguageContext';
-import {veryDarkPink} from 'utils/constants/colors';
-import {
-  Container,
-  Header,
-  Content,
-  Card,
-  CardItem,
-  Thumbnail,
-  Text,
-  Button,
-  Icon,
-  Left,
-  Body,
-} from 'native-base';
+import {Card, CardItem, Thumbnail, Text, Left, Body} from 'native-base';
+import {Photos} from 'utils/Data/Photos';
+import {assetsObject} from 'utils/constants/assets';
 
 export default function ShowList(props) {
   const {colors} = useContext(ColorThemeContext);
   const {language} = useContext(LanguageContext);
   const [drawer, setDrawer] = useState(false);
-  const [items, setItems] = useState([1, 1, 1, 1, 1, 1, 1, 1]);
+  const [items, setItems] = useState(null);
   const toggleNavBar = () => setDrawer(prevDrawer => !prevDrawer);
+
+  const loadPage = () => {
+    let Category = props.navigation.getParam('CategoryId');
+    let searchSentence = props.navigation.getParam('searchSentence');
+    let CompatibleImages = [];
+    if (searchSentence && String(searchSentence).length > 0) {
+      let SearchArray = [];
+      let photosTemp = [];
+      SearchArray = String(searchSentence).split('#');
+      SearchArray.forEach(world => {
+        if (String(world).length > 0) {
+          photosTemp = Photos.filter(item => item.tags.includes(world));
+        }
+        if (photosTemp && photosTemp.length > 0) {
+          photosTemp.forEach(element => {
+            if (CompatibleImages.includes(element) === false) {
+              CompatibleImages.push(element);
+            }
+          });
+        }
+      });
+      setItems(CompatibleImages);
+    } else {
+      const ThisCategoryImages = Photos.filter(
+        item => item.CategoryID === Category,
+      );
+      setItems(ThisCategoryImages);
+    }
+  };
+
+  useEffect(() => {
+    loadPage();
+  }, []);
 
   function afterToggleDrawer(state) {
     setTimeout(() => {
@@ -45,10 +63,10 @@ export default function ShowList(props) {
           <Left>
             <Body>
               <Text style={styles.nameText(colors.TextColor)}>
-                مدل ناخن فرنچ
+                {language.key === 'FA' ? item.FaName : item.EnName}
               </Text>
               <Text note style={styles.noteText(colors.TextColor)}>
-                زیبا ، خاص ، جذاب
+                {item.tags}
               </Text>
             </Body>
             <Thumbnail
@@ -60,12 +78,11 @@ export default function ShowList(props) {
         <CardItem style={styles.bottemCard}>
           <Body>
             <Image
-              source={require('assets/1.png')}
+              source={assetsObject[item.ID]}
               style={styles.MainImage(colors.NavBar)}
             />
             <CoustomTextComponent style={styles.descText(colors.TextColor)}>
-              تست متن مدل ناخن تست متن مدل ناخن تست متن مدل ناخن تست متن مدل
-              ناخن تست متن مدل ناخن تست متن مدل ناخن
+              {language.key === 'FA' ? item.FaDescription : item.EnDescription}
             </CoustomTextComponent>
           </Body>
         </CardItem>
@@ -138,6 +155,7 @@ const styles = StyleSheet.create({
   noteText: color => {
     return {
       textAlign: 'right',
+      fontSize: 10,
     };
   },
   descText: color => {

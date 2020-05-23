@@ -2,7 +2,6 @@ import React, {useState, useContext} from 'react';
 import {View, StyleSheet, StatusBar, TouchableOpacity} from 'react-native';
 import {
   MyHeader,
-  CoustomButtonComponent,
   IconInput,
   CoustomTextComponent,
 } from 'utils/constants/elements';
@@ -20,12 +19,17 @@ import {
   Thumbnail,
   Content,
 } from 'native-base';
-import {ScrollView} from 'react-native-gesture-handler';
+import {showMessage} from 'react-native-flash-message';
+import FlashMessage from 'react-native-flash-message';
+import {CategoryItems} from 'utils/Data/CategoryItems';
+import {assetsObject} from 'utils/constants/assets';
 
 export default function MainComponent(props) {
   const {colors} = useContext(ColorThemeContext);
   const {language} = useContext(LanguageContext);
   const [drawer, setDrawer] = useState(false);
+  const [searchValue, setSearchValue] = useState('');
+
   const toggleNavBar = () => setDrawer(prevDrawer => !prevDrawer);
 
   function afterToggleDrawer(state) {
@@ -34,24 +38,16 @@ export default function MainComponent(props) {
     }, 500);
   }
 
-  const MenuItem = ({name}) => {
+  const MenuItem = ({name, CategoryId, ItemIcon}) => {
     return (
       <TouchableOpacity
-        style={{
-          width: '100%',
-          flexDirection: 'row',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          paddingVertical: 10,
-          borderBottomColor: 'grey',
-          borderBottomWidth: 0.5,
-        }}
+        style={styles.ItemContainer}
         onPress={() => {
-          props.navigation.navigate('ShowList');
+          props.navigation.navigate('ShowList', {CategoryId: CategoryId});
         }}>
         <Thumbnail
           style={styles.thumnnail(colors.TextColor)}
-          source={require('assets/logo.png')}
+          source={assetsObject[ItemIcon]}
         />
         <CoustomTextComponent>{name}</CoustomTextComponent>
       </TouchableOpacity>
@@ -61,27 +57,13 @@ export default function MainComponent(props) {
   const HandMenu = () => {
     return (
       <Content>
-        <MenuItem name="ساده" />
-        <MenuItem name="خط دار" />
-        <MenuItem name="کروم" />
-        <MenuItem name="چشم گربه ای" />
-        <MenuItem name="بالرین" />
-        <MenuItem name="رژ مانند" />
-        <MenuItem name="بلند" />
-        <MenuItem name="کوتاه" />
-        <MenuItem name="براق" />
-        <MenuItem name=" مات" />
-        <MenuItem name="طرح دار" />
-        <MenuItem name="جدید" />
-        <MenuItem name="مناسبتی" />
-        <MenuItem name="تیز" />
-        <MenuItem name="بچگانه" />
-        <MenuItem name="افراد معروف" />
-        <MenuItem name="سیاه و سفید" />
-        <MenuItem name="فرنچ" />
-        <MenuItem name="زمستانی" />
-        <MenuItem name="تابستانی" />
-        <MenuItem name="کج" />
+        {CategoryItems.filter(Item => Item.ParentID === 1).map(Item => (
+          <MenuItem
+            name={language.key === 'FA' ? Item.FaName : Item.EnName}
+            CategoryId={Item.ID}
+            ItemIcon={'c' + Item.ID}
+          />
+        ))}
       </Content>
     );
   };
@@ -89,25 +71,29 @@ export default function MainComponent(props) {
   const FootMenu = () => {
     return (
       <Content>
-        <MenuItem name="ساده" />
-        <MenuItem name="خط دار" />
-        <MenuItem name="کروم" />
-        <MenuItem name="چشم گربه ای" />
-        <MenuItem name="کوتاه" />
-        <MenuItem name="براق" />
-        <MenuItem name=" مات" />
-        <MenuItem name="طرح دار" />
-        <MenuItem name="جدید" />
-        <MenuItem name="مناسبتی" />
-        <MenuItem name="بچگانه" />
-        <MenuItem name="افراد معروف" />
-        <MenuItem name="سیاه و سفید" />
-        <MenuItem name="فرنچ" />
-        <MenuItem name="زمستانی" />
-        <MenuItem name="تابستانی" />
-        <MenuItem name="کج" />
+        {CategoryItems.filter(Item => Item.ParentID === 2).map(Item => (
+          <MenuItem
+            name={language.key === 'FA' ? Item.FaName : Item.EnName}
+            CategoryId={Item.ID}
+            ItemIcon={'c' + Item.ID}
+          />
+        ))}
       </Content>
     );
+  };
+
+  const searchKey = val => {
+    if (val) {
+      if (val.includes('#')) {
+        props.navigation.navigate('ShowList', {searchSentence: val});
+      } else {
+        console.log('show err');
+        showMessage({
+          message: language.txtShouldHasHashtag,
+          type: 'danger',
+        });
+      }
+    }
   };
 
   return (
@@ -125,20 +111,21 @@ export default function MainComponent(props) {
         hasNotification
       />
       <StatusBar backgroundColor={darkPink} />
+      <FlashMessage position="top" />
       <View style={styles.Container(colors.Background)}>
         <IconInput
           IconName="search"
-          placeholder="جستجوی هشتگ   ( برای نمونه : #فرنچ )"
-          style={{alignSelf: 'center'}}
+          placeholder={language.txtSearchHashtagPlaceHolder}
+          style={styles.IconInput}
+          onSubmitEditing={() => searchKey(searchValue)}
+          value={searchValue}
+          onChangeText={setSearchValue}
         />
-        {/* <CoustomButtonComponent
-          name="نمایش تستی"
-          onPress={() => props.navigation.navigate('ShowList')}
-        /> */}
+
         <Tabs
           tabBarUnderlineStyle={styles.underlineStyle(colors.NavBar)}
           tabBarPosition="overlayTop"
-          style={{margin: 14}}>
+          style={styles.Tabs}>
           <Tab
             heading={
               <TabHeading style={styles.TabHeading(colors.Header)}>
@@ -152,7 +139,7 @@ export default function MainComponent(props) {
                   </View>
 
                   <Text style={styles.Text(colors.TextColor)}>
-                    ناخن های دست
+                    {language.txtHandNails}
                   </Text>
                 </>
               </TabHeading>
@@ -172,7 +159,9 @@ export default function MainComponent(props) {
                     />
                   </View>
 
-                  <Text style={styles.Text(colors.TextColor)}>ناخن های پا</Text>
+                  <Text style={styles.Text(colors.TextColor)}>
+                    {language.txtFoofNails}
+                  </Text>
                 </>
               </TabHeading>
             }>
@@ -221,4 +210,15 @@ const styles = StyleSheet.create({
       fontFamily: 'IRANSansMobile(FaNum)',
     };
   },
+  ItemContainer: {
+    width: '100%',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingVertical: 10,
+    borderBottomColor: 'grey',
+    borderBottomWidth: 0.5,
+  },
+  Tabs: {margin: 14},
+  IconInput: {alignSelf: 'center'},
 });

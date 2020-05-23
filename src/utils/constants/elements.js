@@ -179,7 +179,6 @@ const HeaderStyels = StyleSheet.create({
       width: '100%',
     };
   },
-
   Icons: {
     flex: 1,
     alignItems: 'center',
