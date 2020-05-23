@@ -61,7 +61,7 @@ export default function MainComponent(props) {
           <MenuItem
             name={language.key === 'FA' ? Item.FaName : Item.EnName}
             CategoryId={Item.ID}
-            ItemIcon={'c' + Item.ID}
+            ItemIcon={'C' + Item.ID}
           />
         ))}
       </Content>
@@ -75,7 +75,7 @@ export default function MainComponent(props) {
           <MenuItem
             name={language.key === 'FA' ? Item.FaName : Item.EnName}
             CategoryId={Item.ID}
-            ItemIcon={'c' + Item.ID}
+            ItemIcon={'C' + Item.ID}
           />
         ))}
       </Content>
