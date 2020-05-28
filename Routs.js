@@ -13,6 +13,7 @@ import Setting from 'components/Setting/Setting';
 import ChooseThemeColor from 'components/Setting/ChooseThemeColor';
 import ChooseLanguage from 'components/Setting/ChooseLanguage';
 import ChooseFont from 'components/Setting/ChooseFont';
+import FullScreenImage from 'components/ShowList/FullScreenImage';
 
 export default function Routs() {
   const routs = createStackNavigator(
@@ -24,6 +25,7 @@ export default function Routs() {
       ChooseLanguage,
       ChooseFont,
       ShowList,
+      FullScreenImage,
     },
     {
       initialRouteName: 'SplashScreen',

@@ -59,7 +59,7 @@ export const assetsObject = {
   23: require('../../../assets/All/23.jpg'),
   24: require('../../../assets/All/24.jpg'),
   25: require('../../../assets/All/25.jpg'),
-  26: require('../../../assets/All/26.jpeg'),
+  26: require('../../../assets/All/26.png'),
   27: require('../../../assets/All/27.jpg'),
   28: require('../../../assets/All/28.jpg'),
   29: require('../../../assets/All/29.jpg'),

@@ -1,10 +1,11 @@
-import React, {useEffect, useState, useContext} from 'react';
+import React, {useContext} from 'react';
 import {
   StyleSheet,
   View,
   ScrollView,
   Image,
   TouchableOpacity,
+  BackHandler,
 } from 'react-native';
 import {CoustomTextComponent} from 'utils/constants/elements';
 import {
@@ -15,8 +16,6 @@ import {
   Gold,
 } from 'utils/constants/colors';
 import {Icon} from 'native-base';
-import Session from 'utils/Statics';
-// import {removeUser} from 'utils/database/userData';
 import Dash from 'react-native-dash';
 import {ColorThemeContext} from 'utils/Context/ColorThemeContext';
 import {LanguageContext} from 'utils/Context/LanguageContext';
@@ -91,7 +90,9 @@ export default function CustomDrawer(props) {
           style={{backgroundColor: backGroundGrey}}
         />
 
-        <TouchableOpacity style={styles.drawerItemContainerNoBorder}>
+        <TouchableOpacity
+          style={styles.drawerItemContainerNoBorder}
+          onPress={() => BackHandler.exitApp()}>
           <Icon
             type="FontAwesome"
             name="remove"

@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react';
-import {StyleSheet, View, TouchableOpacity} from 'react-native';
+import {StyleSheet, View, TouchableOpacity, StatusBar} from 'react-native';
 import SideMenu from 'react-native-side-menu';
 import CustomDrawer from 'utils/constants/CustomDrawer';
 import {MyHeader, CoustomTextComponent} from 'utils/constants/elements';
@@ -14,6 +14,7 @@ import {
   saveAppGeneralInfo,
   getAppGeneralInfo,
 } from 'utils/database/AppGeneralInfo';
+import {darkPink} from 'utils/constants/colors';
 
 export default function ChooseFont(props) {
   const [drawer, setDrawer] = useState(false);
@@ -112,6 +113,7 @@ export default function ChooseFont(props) {
         Title={language.txtChooseFont}
         onHamburgerPress={toggleNavBar}
       />
+      <StatusBar backgroundColor={darkPink} />
       <Content style={styles.Container(colors.Background)}>
         <SeettingItem
           name={language.txtTheme1}

@@ -1,5 +1,5 @@
 import React, {useState, useContext} from 'react';
-import {StyleSheet, View, TouchableOpacity} from 'react-native';
+import {StyleSheet, View, TouchableOpacity, StatusBar} from 'react-native';
 import SideMenu from 'react-native-side-menu';
 import CustomDrawer from 'utils/constants/CustomDrawer';
 import {MyHeader, CoustomTextComponent} from 'utils/constants/elements';
@@ -15,6 +15,7 @@ import {Colors} from 'react-native/Libraries/NewAppScreen';
 import Flag from 'react-native-round-flags';
 import {showMessage} from 'react-native-flash-message';
 import FlashMessage from 'react-native-flash-message';
+import {darkPink} from 'utils/constants/colors';
 
 export default function ChooseLanguage(props) {
   const [drawer, setDrawer] = useState(false);
@@ -95,6 +96,8 @@ export default function ChooseLanguage(props) {
         Title={language.txtChooseLanguage}
         onHamburgerPress={toggleNavBar}
       />
+      <StatusBar backgroundColor={darkPink} />
+
       <Content style={styles.Container(colors.Background)}>
         <SeettingItem
           name="فارسی"

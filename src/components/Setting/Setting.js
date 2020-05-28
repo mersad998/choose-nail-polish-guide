@@ -1,11 +1,12 @@
 import React, {useState, useContext} from 'react';
 import {ColorThemeContext} from 'utils/Context/ColorThemeContext';
-import {StyleSheet, View, TouchableOpacity} from 'react-native';
+import {StyleSheet, View, TouchableOpacity, StatusBar} from 'react-native';
 import SideMenu from 'react-native-side-menu';
 import CustomDrawer from 'utils/constants/CustomDrawer';
 import {MyHeader, CoustomTextComponent} from 'utils/constants/elements';
 import {Icon} from 'native-base';
 import {LanguageContext} from 'utils/Context/LanguageContext';
+import {darkPink} from 'utils/constants/colors';
 
 export default function Setting(props) {
   const [drawer, setDrawer] = useState(false);
@@ -54,6 +55,7 @@ export default function Setting(props) {
       isOpen={drawer}
       bounceBackOnOverdraw={false}>
       <MyHeader Title={language.txtSetting} onHamburgerPress={toggleNavBar} />
+      <StatusBar backgroundColor={darkPink} />
       <View style={styles.Container(colors.Background)}>
         <SeettingItem
           name={language.txtChooseTheme}
