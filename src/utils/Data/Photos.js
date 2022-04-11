@@ -53,7 +53,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 6',
     ID: 6,
     tags: '#دست#بلند#فرنچ',
@@ -67,7 +67,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 7',
     ID: 7,
     tags: '#دست#طرح دار#بلند',
@@ -81,7 +81,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 8',
     ID: 8,
     tags: '#دست#فرنچ#بلند',
@@ -95,7 +95,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 9',
     ID: 9,
     tags: '#دست#طرح دار#بلند',
@@ -109,7 +109,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 10',
     ID: 10,
     tags: '#دست#تابستانی#بلند#طرح دار',
@@ -123,7 +123,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 11',
     ID: 11,
     tags: '#دست#فرنچ#مناسبتی#براق#بلند',
@@ -137,7 +137,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 12',
     ID: 12,
     tags: '#دست#جدید#براق#بلند',
@@ -151,7 +151,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 13',
     ID: 13,
     tags: '#دست#سیاه سفید#فرنچ',
@@ -165,7 +165,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 14',
     ID: 14,
     tags: '#دست#سیاه سفید#براق',
@@ -179,7 +179,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 15',
     ID: 15,
     tags: '#دست#فرنچ#سیاه سفید#طرح دار',
@@ -193,7 +193,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 16',
     ID: 16,
     tags: '#دست#سیاه سفید#کوتاه',
@@ -207,7 +207,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 17',
     ID: 17,
     tags: '#دست#چشم گربه ای#براق#کوتاه',
@@ -221,7 +221,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 18',
     ID: 18,
     tags: '#دست#براق#چشم گربه ای#زمستان',
@@ -235,7 +235,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 19',
     ID: 19,
     tags: '#دست#چشم گربه ای#بلند#ببراق',
@@ -249,7 +249,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 20',
     ID: 20,
     tags: '#دست#چشم گربه ای#لند#نوک تیز',
@@ -263,7 +263,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 21',
     ID: 21,
     tags: '#دست#چشم گربه ای#بلند#براق',
@@ -277,7 +277,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 22',
     ID: 22,
     tags: '#دست#چشم گربه ای#کوتاه',
@@ -291,7 +291,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 23',
     ID: 23,
     tags: '#دست#چشم گربه ای#کوتاه#براق#زمستانی',
@@ -305,7 +305,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 24',
     ID: 24,
     tags: '#دست#چشم گربه ای#کوتاه#براق',
@@ -319,7 +319,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 25',
     ID: 25,
     tags: '#دست#چشم گربه ای#تابستانی#بلند#نوک تیز',
@@ -333,7 +333,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 26',
     ID: 26,
     tags: '#دست#چشم گربه ای#بلند',
@@ -347,7 +347,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 27',
     ID: 27,
     tags: '#دست#افرادمشهور',
@@ -361,7 +361,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 28',
     ID: 28,
     tags: '#دست#افراد مشهور#تیره',
@@ -375,7 +375,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 29',
     ID: 29,
     tags: '#دست#افراد مشهور#رنگارنگ#تابستونی',
@@ -389,7 +389,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 30',
     ID: 30,
     tags: '#دست#افراد مشهور#کوتاه',
@@ -403,7 +403,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 31',
     ID: 31,
     tags: '#دست#افراد مشهور#تابستونی',
@@ -417,7 +417,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 32',
     ID: 32,
     tags: '#دست#افراد مشهور#کوتاه',
@@ -431,7 +431,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 33',
     ID: 33,
     tags: '#دست#افراد مشهور',
@@ -445,7 +445,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 34',
     ID: 34,
     tags: '#دست#افرادمشهور#رنگارنگ',
@@ -459,7 +459,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 35',
     ID: 35,
     tags: '#دست#کروم#کوتاه',
@@ -473,7 +473,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 36',
     ID: 36,
     tags: '#دست#کروم#براق',
@@ -487,7 +487,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 37',
     ID: 37,
     tags: '#دست#کروم#کوتاه',
@@ -501,7 +501,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 38',
     ID: 38,
     tags: '#دست#کروم#بلند',
@@ -515,7 +515,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 39',
     ID: 39,
     tags: '#دست#کروم#براق#تابستونی',
@@ -529,7 +529,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 40',
     ID: 40,
     tags: '#دست#کروم#کوتاه#براق',
@@ -543,7 +543,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 41',
     ID: 41,
     tags: '#دست#فرنچ',
@@ -557,7 +557,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 42',
     ID: 42,
     tags: '#دست#فرنچ#کوتاه',
@@ -571,7 +571,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 43',
     ID: 43,
     tags: '#دست#فرنچ#کوتاه',
@@ -585,7 +585,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 44',
     ID: 44,
     tags: '#دست#فرنچ',
@@ -599,7 +599,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 45',
     ID: 45,
     tags: '#دست#فرنچ',
@@ -613,7 +613,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 46',
     ID: 46,
     tags: '#دست#فرنچ#کوتاه',
@@ -627,7 +627,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 47',
     ID: 47,
     tags: '#دست#فرنچ',
@@ -641,7 +641,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 48',
     ID: 48,
     tags: '#دست#فرنچ#رنگارنگ',
@@ -655,7 +655,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 49',
     ID: 49,
     tags: '#دست#فرنچ#مهمونی',
@@ -669,7 +669,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 50',
     ID: 50,
     tags: '#دست#فرنچ',
@@ -683,7 +683,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 51',
     ID: 51,
     tags: '#دست#بچه#نوک تیز#براق',
@@ -697,7 +697,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 52',
     ID: 52,
     tags: '#دست#کج#فرنچ',
@@ -711,7 +711,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 53',
     ID: 53,
     tags: '#دست#کج#خط دار',
@@ -725,7 +725,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 54',
     ID: 54,
     tags: '#دست #کج#بلند#براق',
@@ -739,7 +739,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 55',
     ID: 55,
     tags: '#دست#کج#طرح دار #بلند',
@@ -753,7 +753,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 56',
     ID: 56,
     tags: '#دست#کج#بلند#مات',
@@ -767,7 +767,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 57',
     ID: 57,
     tags: '#دست#کج#بلند#خط دار',
@@ -781,7 +781,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 58',
     ID: 58,
     tags: '#دست#کج',
@@ -795,7 +795,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 59',
     ID: 59,
     tags: '#دست#رژ#بچه',
@@ -809,7 +809,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 60',
     ID: 60,
     tags: '#دست#رژ#فرنچ',
@@ -823,7 +823,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 61',
     ID: 61,
     tags: '#دست#رژ#فرنچ',
@@ -837,7 +837,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 62',
     ID: 62,
     tags: '#دست#رژ#طرح دار',
@@ -851,7 +851,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 63',
     ID: 63,
     tags: '#دست#رژ#فرنچ#تابستونی',
@@ -865,7 +865,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 64',
     ID: 64,
     tags: '#دست#رژ#بچه',
@@ -879,7 +879,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 65',
     ID: 65,
     tags: '#دست#زژ#فرنچ',
@@ -893,7 +893,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 66',
     ID: 66,
     tags: '#دست#رژ#فرنچ',
@@ -907,7 +907,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 67',
     ID: 67,
     tags: '#دست#بلند#براق#تابستونی',
@@ -921,7 +921,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 68',
     ID: 68,
     tags: '#دست#بلند#براق#نوک تیز',
@@ -935,7 +935,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 69',
     ID: 69,
     tags: '#دست#بلند#مات',
@@ -949,7 +949,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 70',
     ID: 70,
     tags: '#دست#بلند',
@@ -963,7 +963,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 71',
     ID: 71,
     tags: '#دست#بلند#فرنچ',
@@ -977,7 +977,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 72',
     ID: 72,
     tags: '#دست#جدید#براق#بلند#مناسبتی#طرح دار',
@@ -991,7 +991,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 73',
     ID: 73,
     tags: '#دست#بلند#فرنچ',
@@ -1005,7 +1005,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 74',
     ID: 74,
     tags: '#دست#جدید#بلند#تابستونی',
@@ -1019,7 +1019,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 75',
     ID: 75,
     tags: '#دست#جدید#بلند#فرنچ#براق',
@@ -1033,7 +1033,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 76',
     ID: 76,
     tags: '#دست#فرنچ#طرح دار',
@@ -1047,7 +1047,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 77',
     ID: 77,
     tags: '#دست#جدید#فرنچ',
@@ -1061,7 +1061,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 78',
     ID: 78,
     tags: '#دست#مناسبتی#رنگاورنگ#زمستونی',
@@ -1075,7 +1075,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 79',
     ID: 79,
     tags: '#دست#مناسبتی#کوتاه#رنگاورنگ',
@@ -1089,7 +1089,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 80',
     ID: 80,
     tags: '#دست#مات#سیاه سفید',
@@ -1103,7 +1103,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 81',
     ID: 81,
     tags: '#دست#مات#بلند#زمستونی',
@@ -1117,7 +1117,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 82',
     ID: 82,
     tags: '#دستپ#مات#بلند',
@@ -1131,7 +1131,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 83',
     ID: 83,
     tags: '#دست#طرح دار#خط دار',
@@ -1145,7 +1145,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 84',
     ID: 84,
     tags: '#دست#طرح دار#شاد',
@@ -1159,7 +1159,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 85',
     ID: 85,
     tags: '#دست#طرح دار#کوتاه',
@@ -1173,7 +1173,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 86',
     ID: 86,
     tags: '#دست#طرح دار#کوتاه',
@@ -1187,7 +1187,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 87',
     ID: 87,
     tags: '#دست#طرح دار#خط دار#شاد#تابستونی',
@@ -1201,7 +1201,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 88',
     ID: 88,
     tags: '#دست#طرح دار#فرنچ',
@@ -1215,7 +1215,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 89',
     ID: 89,
     tags: '#دست#تیز#فرنچ',
@@ -1229,7 +1229,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 90',
     ID: 90,
     tags: '#دست#تیز#بلند',
@@ -1243,7 +1243,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 91',
     ID: 91,
     tags: '#دست#تیز#براق#خط دار',
@@ -1257,7 +1257,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 92',
     ID: 92,
     tags: '#دست#تیز#براق#بلند',
@@ -1271,7 +1271,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 93',
     ID: 93,
     tags: '#دست#فرنچ#تیز',
@@ -1285,7 +1285,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 94',
     ID: 94,
     tags: '#دست#تیز#براق#فرنچ',
@@ -1299,7 +1299,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 95',
     ID: 95,
     tags: '#دست#تیز#فرنچ',
@@ -1313,7 +1313,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 96',
     ID: 96,
     tags: '#دست#ٍبراق#بلند#خط دار',
@@ -1327,7 +1327,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 97',
     ID: 97,
     tags: '#دست#براق#بلند',
@@ -1341,7 +1341,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 98',
     ID: 98,
     tags: '#دست#براق#مات',
@@ -1355,7 +1355,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 99',
     ID: 99,
     tags: '#دست#براق#کوتاه#شاد',
@@ -1369,7 +1369,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 100',
     ID: 100,
     tags: '#دست#بلند#براق',
@@ -1383,7 +1383,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 101',
     ID: 101,
     tags: '#دست#براق#بلند#نوک تیز',
@@ -1397,7 +1397,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 102',
     ID: 102,
     tags: '#دست#کوتاه#ساده',
@@ -1411,7 +1411,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 103',
     ID: 103,
     tags: '#دست#ساده#تک رنگ',
@@ -1425,7 +1425,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 104',
     ID: 104,
     tags: '#دست#خط دار#کوتاه',
@@ -1439,7 +1439,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 105',
     ID: 105,
     tags: '#دست#تابستونی#بلند#نوک تیز',
@@ -1453,7 +1453,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 106',
     ID: 106,
     tags: '#دست#رنگارنگ#بلند#براق',
@@ -1467,7 +1467,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 107',
     ID: 107,
     tags: '#دستتابستونی#بلند',
@@ -1481,7 +1481,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 108',
     ID: 108,
     tags: '#دست#زمستانی#براق',
@@ -1495,7 +1495,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 109',
     ID: 109,
     tags: '#دست#زمستانی#رنگارنگ',
@@ -1509,7 +1509,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 110',
     ID: 110,
     tags: '#دست#زمستانی#کوتاه',
@@ -1523,7 +1523,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 111',
     ID: 111,
     tags: '#پا #مشگی #پر',
@@ -1537,7 +1537,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 112',
     ID: 112,
     tags: '#سیاه سفید #مربع #پا',
@@ -1551,7 +1551,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 113',
     ID: 113,
     tags: '#لوزی #مشکی #پا',
@@ -1565,7 +1565,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 114',
     ID: 114,
     tags: '#سفید #مشکی #سفید مشکی # جوان پسند',
@@ -1579,7 +1579,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 115',
     ID: 115,
     tags: '#پا #چشم گربه ای #سبز #آبی',
@@ -1593,7 +1593,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 116',
     ID: 116,
     tags: '#پا #چشم گربه ای #مشکی #خاص',
@@ -1607,7 +1607,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 117',
     ID: 117,
     tags: '#پا #چشم گربه ای #مشکی #بنفش #مهمونی',
@@ -1621,7 +1621,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 118',
     ID: 118,
     tags: '#پا #افراد معروف',
@@ -1635,7 +1635,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 119',
     ID: 119,
     tags: '#پا #افراد معروف',
@@ -1649,7 +1649,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 120',
     ID: 120,
     tags: '#پا #افراد معروف',
@@ -1663,7 +1663,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 121',
     ID: 121,
     tags: '#پا #افراد معروف',
@@ -1677,7 +1677,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 122',
     ID: 122,
     tags: '#پا #آینه ای #کروم',
@@ -1691,7 +1691,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 123',
     ID: 123,
     tags: '#کروم #پا #درخشان #الماس',
@@ -1705,7 +1705,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 124',
     ID: 124,
     tags: '#پا #کروم #آبی #درخشان',
@@ -1719,7 +1719,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 125',
     ID: 125,
     tags: '#دست #پا #فرنچ #شیک',
@@ -1733,7 +1733,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 126',
     ID: 126,
     tags: '#پا #فرنچ #براق #تفاوت #جذاب',
@@ -1747,7 +1747,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 127',
     ID: 127,
     tags: '#پا #فرنچ #هلویی #ساده',
@@ -1761,7 +1761,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 128',
     ID: 128,
     tags: '#پا #فرنچ #قرمز #براق ',
@@ -1775,7 +1775,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 129',
     ID: 129,
     tags: '#پا #فرنچ #سفید #جذاب',
@@ -1789,7 +1789,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 130',
     ID: 130,
     tags: '#پا #فرنچ #صورتی #جذاب',
@@ -1803,7 +1803,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 131',
     ID: 131,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1817,7 +1817,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 132',
     ID: 132,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1831,7 +1831,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 133',
     ID: 133,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1845,7 +1845,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 134',
     ID: 134,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1859,7 +1859,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 135',
     ID: 135,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1873,7 +1873,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 136',
     ID: 136,
     tags: '#پا #رنگارنگ #کودکان #نینی #شاد',
@@ -1887,7 +1887,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 137',
     ID: 137,
     tags: '#پا #جدید #سیاه سفید #هنری',
@@ -1901,7 +1901,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 138',
     ID: 138,
     tags: '#پا #مروارید #ژینگول #مینگول',
@@ -1915,7 +1915,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 139',
     ID: 139,
     tags: '#پا #بچگانه #مهدکودک #مربی مهربان',
@@ -1929,7 +1929,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 140',
     ID: 140,
     tags: '#پا #کریسمس',
@@ -1943,7 +1943,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 141',
     ID: 141,
     tags: '#پا #کریسمس',
@@ -1957,7 +1957,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 142',
     ID: 142,
     tags: '#پا #کریسمس',
@@ -1971,7 +1971,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 143',
     ID: 143,
     tags: '#پا #مات',
@@ -1985,7 +1985,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 144',
     ID: 144,
     tags: '#پا #مات',
@@ -1999,7 +1999,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 145',
     ID: 145,
     tags: '#پا #مات #آبی #نگین',
@@ -2013,7 +2013,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 146',
     ID: 146,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2027,7 +2027,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 147',
     ID: 147,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2041,7 +2041,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 148',
     ID: 148,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2055,7 +2055,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 149',
     ID: 149,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2069,7 +2069,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 150',
     ID: 150,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2083,7 +2083,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 151',
     ID: 151,
     tags: '#پا #طرح دار #خرابکاری',
@@ -2097,7 +2097,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 152',
     ID: 152,
     tags: '#پا #الماس #براق',
@@ -2111,7 +2111,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 153',
     ID: 153,
     tags: '#پا #ساده #کوتاه',
@@ -2125,7 +2125,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 154',
     ID: 154,
     tags: '#پا #کوتاه #ساده',
@@ -2139,7 +2139,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 155',
     ID: 155,
     tags: '#پا #شیک #ساده',
@@ -2153,7 +2153,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 156',
     ID: 156,
     tags: '#پا #سفید #ساده',
@@ -2167,7 +2167,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 157',
     ID: 157,
     tags: '#پا #ساده',
@@ -2181,7 +2181,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 158',
     ID: 158,
     tags: '#پا #راه راه #باحال',
@@ -2195,7 +2195,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 159',
     ID: 159,
     tags: '#پا #راه راه #باحال',
@@ -2209,7 +2209,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 160',
     ID: 160,
     tags: '#پا #تابستان #تابستانی #روشن',
@@ -2223,7 +2223,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 161',
     ID: 161,
     tags: '#پا #تابستانی #هندوانه',
@@ -2237,7 +2237,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 162',
     ID: 162,
     tags: '#پا #تابستان #شیکو مجلسی',
@@ -2251,7 +2251,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 163',
     ID: 163,
     tags: '#پا #زمستانی',
@@ -2265,7 +2265,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 164',
     ID: 164,
     tags: '#پا #تیره #زمستونی',
@@ -2279,7 +2279,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 165',
     ID: 165,
     tags: '#پا #زمستونی #نایاب #سرد',
@@ -2293,7 +2293,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 166',
     ID: 166,
     tags: '#پا #بلند #آبی',
@@ -2307,7 +2307,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 167',
     ID: 167,
     tags: '#پا #بلند #صورتی',
@@ -2321,7 +2321,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 168',
     ID: 168,
     tags: '#پا #بلند #مشکی',
@@ -2335,7 +2335,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 169',
     ID: 169,
     tags: '#پا #بلند #قزمز #فرنچ طوری',
@@ -2349,7 +2349,7 @@ export const Photos = [
       '\n' +
       '-------------------------------------------' +
       '\n' +
-      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.buzzfeed.com و www.goodhousekeeping.com و www.bodyartguru.com و www.glamour.com و www.pixabay.com و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
+      'کلیه محتوای این اپلیکیشن به منظور صرفه جویی در زمان و هزینه شما عزیزان برای جستجو در اینترنت از سایت های www.freepik.com و www.schmucknaegel.de و www.bodyartguru.com و www.template.net/design-templates/inspirational/nail-art-design و www.stylesatlife.com/articles/top-nail-art-designs و همچنین شبکه های اجتماعی غیر private گردآوری و دسته‌بندی شده و فاقد کپی‌رایت میباشند و صرفاً برای راحتی و بروز بودن هرچه بیشتر شما عزیزان به صورت اپلیکیشن در اختیار شما قرار گرفته است',
     FaName: 'شماره 170',
     ID: 170,
     tags: '#پا #بلند #سیاه',

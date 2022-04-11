@@ -6,6 +6,7 @@ import {
   Image,
   FlatList,
   TouchableOpacity,
+  ToastAndroid,
 } from 'react-native';
 import {MyHeader, CoustomTextComponent} from 'utils/constants/elements';
 import SideMenu from 'react-native-side-menu';
@@ -16,6 +17,9 @@ import {LanguageContext} from 'utils/Context/LanguageContext';
 import {Card, CardItem, Thumbnail, Text, Left, Body} from 'native-base';
 import {Photos} from 'utils/Data/Photos';
 import {assetsObject} from 'utils/constants/assets';
+import Session from 'utils/Statics';
+import Tapsell from 'react-native-tapsell';
+const ZONE_ID = '5ee60e4a62d3300001de7722';
 
 export default function ShowList(props) {
   const {colors} = useContext(ColorThemeContext);
@@ -53,8 +57,65 @@ export default function ShowList(props) {
     }
   };
 
+  // Tapsell Functions :
+  const onAdAvailable = (zoneId, adId) => {
+    console.log(adId);
+    let adOptions = {
+      ad_id: adId,
+      back_disabled: true,
+      immersive_mode: true,
+      rotation_mode: 1,
+      show_exit_dialog: true,
+    };
+    // ToastAndroid.show('AdAvailable', ToastAndroid.SHORT);
+
+    Tapsell.showAd(adOptions);
+  };
+  const onNoAdAvailable = zoneId => {
+    console.log('onNoAdAvailable');
+    // ToastAndroid.show('onNoAdAvailable', ToastAndroid.SHORT);
+  };
+  const onError = (zoneId, error) => {
+    console.log('onError');
+    // console.log(zoneId);
+    // console.log(error);
+    // ToastAndroid.show('onError' + zoneId + error, ToastAndroid.SHORT);
+  };
+  const onNoNetwork = zoneId => {
+    console.log('onNoNetwork');
+    // ToastAndroid.show('onNoNetwork' + zoneId, ToastAndroid.SHORT);
+    // console.log(zoneId);
+  };
+  const onExpiring = (zoneId, adId) => {
+    console.log('onExpiring');
+    // ToastAndroid.show('onExpiring' + zoneId + adId, ToastAndroid.SHORT);
+  };
+
   useEffect(() => {
     loadPage();
+  }, []);
+
+  useEffect(() => {
+    // console.log('useEffect Called');
+    const SessionNumber = Session.get('SessionNumber', 1);
+    console.log(SessionNumber);
+
+    if (+SessionNumber % 3 === 0) {
+      let PlusSessionNumberOk = +SessionNumber + 1;
+      Session.set('SessionNumber', PlusSessionNumberOk);
+      Tapsell.requestAd(
+        ZONE_ID,
+        true,
+        onAdAvailable,
+        onNoAdAvailable,
+        onError,
+        onNoNetwork,
+        onExpiring,
+      );
+    } else {
+      let PlusSessionNumber = +SessionNumber + 1;
+      Session.set('SessionNumber', PlusSessionNumber);
+    }
   }, []);
 
   function afterToggleDrawer(state) {

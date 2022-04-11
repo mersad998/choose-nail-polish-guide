@@ -11,6 +11,7 @@ import {getAppGeneralInfo} from 'utils/database/AppGeneralInfo';
 import {FontsContext} from 'utils/Context/FontsContext';
 import Fonts from 'utils/Context/Fonts';
 import {darkPink} from 'utils/constants/colors';
+import Session from 'utils/Statics';
 
 export default function SplashScreen(props) {
   const {colors, setColors} = useContext(ColorThemeContext);
@@ -117,6 +118,7 @@ export default function SplashScreen(props) {
   };
 
   useEffect(() => {
+    Session.set('SessionNumber', 1);
     setTheme();
     setTimeout(() => {
       props.navigation.replace('MainComponent');
